@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.Form1.resources
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\bin\Debug\net6.0-windows\uçantopoyunuu.exe
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\bin\Debug\net6.0-windows\uçantopoyunuu.deps.json
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\bin\Debug\net6.0-windows\uçantopoyunuu.runtimeconfig.json
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\bin\Debug\net6.0-windows\uçantopoyunuu.dll
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\bin\Debug\net6.0-windows\uçantopoyunuu.pdb
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.dll
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\refint\uçantopoyunuu.dll
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.pdb
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\uçantopoyunuu.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\uçantopoyunuu\uçantopoyunuu\obj\Debug\net6.0-windows\ref\uçantopoyunuu.dll
